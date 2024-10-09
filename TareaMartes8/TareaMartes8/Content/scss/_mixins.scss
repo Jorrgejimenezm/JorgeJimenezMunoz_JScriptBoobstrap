@@ -1,0 +1,9 @@
+﻿@mixin botones($tamaño, $borde, $tipografia) {
+    padding: $tamaño;
+    border: $borde;
+    font-family: $tipografia;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+}

@@ -1,0 +1,35 @@
+﻿@import 'variables'; //importar las variables creadas
+@import 'mixins'; //importar los mixins
+
+body {
+    background-color: #000000;
+    font-family: $font-family-base;
+
+    h1 {
+        color: $primary-color;
+    }
+
+    p {
+        background-color: $secondary-color;
+        width: 50%
+    }
+}
+
+.button-primary {
+    @include botones (3em, 2px solid, 'Arial');
+    background-color: $primary-color;
+
+    &:hover{
+        background-color: darken($primary-color, 10%);
+    }
+}
+
+.button-secondary {
+    @include botones (3em, 2px solid, 'Arial');
+    background-color: $secondary-color;
+
+    &:hover {
+        background-color: darken($secondary-color, 10%);
+    }
+}
+

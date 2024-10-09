@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\JorgeJimenez.csproj|c:\\users\\jorge\\desktop\\dev\\masterdev\\jscript\\tareamartes8\\tareamartes8\\ejercicio3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\JorgeJimenez.csproj|solutionrelative:tareamartes8\\ejercicio3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\TareaMartes8.csproj|c:\\users\\jorge\\desktop\\dev\\masterdev\\jscript\\tareamartes8\\tareamartes8\\ejercicio2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\TareaMartes8.csproj|solutionrelative:tareamartes8\\ejercicio2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\TareaMartes8.csproj|c:\\users\\jorge\\desktop\\dev\\masterdev\\jscript\\tareamartes8\\tareamartes8\\ejercicio1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2584D36-3260-431A-B988-16F6FE692A3F}|TareaMartes8\\TareaMartes8.csproj|solutionrelative:tareamartes8\\ejercicio1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.html",
+              "DocumentMoniker": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio2.html",
+              "RelativeDocumentMoniker": "TareaMartes8\\Ejercicio2.html",
+              "ToolTip": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio2.html",
+              "RelativeToolTip": "TareaMartes8\\Ejercicio2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T09:33:09.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1.html",
+              "DocumentMoniker": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio1.html",
+              "RelativeDocumentMoniker": "TareaMartes8\\Ejercicio1.html",
+              "ToolTip": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio1.html",
+              "RelativeToolTip": "TareaMartes8\\Ejercicio1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T09:32:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3.html",
+              "DocumentMoniker": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio3.html",
+              "RelativeDocumentMoniker": "TareaMartes8\\Ejercicio3.html",
+              "ToolTip": "C:\\Users\\Jorge\\Desktop\\dev\\MasterDEV\\JScript\\TareaMartes8\\TareaMartes8\\Ejercicio3.html",
+              "RelativeToolTip": "TareaMartes8\\Ejercicio3.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-09T08:32:50.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
